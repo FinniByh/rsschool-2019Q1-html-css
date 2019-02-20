@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Daniil Gaiduk
+CodeAcademy html+css course: https://www.codecademy.com/users/finnibyh/achievements
